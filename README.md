@@ -36,7 +36,6 @@ I’m constantly exploring the latest cybersecurity trends, exploit techniques, 
   
 
 - ❓ Ask me about anything related to Cyber Security & related Tech  
-</td><td valign="top" width="0%">
 
 </td></tr></table>
 
