@@ -40,8 +40,6 @@ I’m constantly exploring the latest cybersecurity trends, exploit techniques, 
 
 
 
-</td></tr></table>  
-
 <br/>  
 
 
