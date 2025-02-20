@@ -30,7 +30,7 @@ I’m constantly exploring the latest cybersecurity trends, exploit techniques, 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="0%">
 
 - **🌱 I’m currently learning Cyber Security**  
   
